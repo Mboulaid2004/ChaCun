@@ -1,0 +1,27 @@
+2026.02.19 01:40:43 INFO  Started: Metals version 1.6.5 in folders '/Users/mbpro/Desktop/ChaCuN' for client Visual Studio Code 1.109.0.
+2026.02.19 01:40:43 INFO  Memory monitor started
+2026.02.19 01:40:43 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.19 01:40:44 INFO  no build target found for /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java. Using fallback presentation compiler.
+2026.02.19 01:40:44 INFO  no build target found for /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java. Using fallback presentation compiler.
+2026.02.19 01:40:45 WARN  no build tool detected in workspace '/Users/mbpro/Desktop/ChaCuN'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.19 01:40:45 WARN  Build server is not auto-connectable.
+2026.02.19 01:40:45 WARN  no build target for: /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java
+2026.02.19 01:40:46 INFO  no build target found for /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java. Using fallback presentation compiler.
+févr. 19, 2026 1:40:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 7
+2026.02.19 01:40:47 INFO  no build target found for /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java. Using fallback presentation compiler.
+févr. 19, 2026 1:40:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+2026.02.19 01:40:49 INFO  no build target found for /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java. Using fallback presentation compiler.
+2026.02.19 01:40:51 INFO  no build target found for /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java. Using fallback presentation compiler.
+2026.02.19 01:40:51 INFO  no build target found for /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java. Using fallback presentation compiler.
+2026.02.19 01:40:54 INFO  no build target found for /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java. Using fallback presentation compiler.
+2026.02.19 01:41:04 INFO  no build target found for /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java. Using fallback presentation compiler.
+2026.02.19 01:41:07 INFO  no build target found for /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java. Using fallback presentation compiler.
+févr. 19, 2026 1:41:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 20
+2026.02.19 01:41:20 INFO  no build target found for /Users/mbpro/Desktop/ChaCuN/src/ch/epfl/chacun/Board.java. Using fallback presentation compiler.
+2026.02.19 01:41:21 INFO  Shutting down server
+2026.02.19 01:41:21 INFO  Memory monitor stopped
+2026.02.19 01:41:21 INFO  shutting down Metals
+2026.02.19 01:41:21 INFO  Exiting server
